@@ -40,7 +40,7 @@ suggest changes to their code.
 
 I would like all of my statistical/computational collaborators to use
 git and github, so that we
-may collaborate more easily.  But for
+can collaborate more easily.  But for
 statisticians with no history of use of version control, it can be
 hard to get started.  This is a tutorial of sorts, to help.
 
